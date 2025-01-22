@@ -8,6 +8,7 @@ first = smallest(3,2)       # The value of first is 2
 second = smallest(2, 2)      # The value of second is 2. This result is reasonable because it does not fall under the first condition.
 print()
 
+
 ################################################################################################################
 def function2(a:int, b:int, c:int) -> int:
     if a > b and a > c:

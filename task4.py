@@ -24,6 +24,7 @@ def length_sum(L:list[str]) -> int:
     return result
 
 
+
 first = length_sum(["this", "is", "the", "first", "call"])
 second = length_sum(["second call"])
 third = length_sum(["another", "call"])
