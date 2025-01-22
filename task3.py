@@ -9,6 +9,7 @@ second = smallest(2, 2)      # The value of second is 2. This result is reasonab
 print()
 
 
+
 ################################################################################################################
 def function2(a:int, b:int, c:int) -> int:
     if a > b and a > c:
